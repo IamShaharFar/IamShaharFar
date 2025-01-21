@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Shahar Faradyan 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat)
-![Years Badge](https://badges.strrl.dev/years/your-username)
+![Profile Age](https://img.shields.io/github/created-at/IamShaharFar?label=Created%20At)
 
 ## 🚀 About Me
 I'm a **Software Developer** with a passion for building scalable and efficient applications. Currently, I'm a **1st-year Computer Science student at the Open University of Israel**. I have experience working with a wide range of technologies and enjoy solving complex problems with elegant solutions.
