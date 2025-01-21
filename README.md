@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm Shahar Faradyan 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat)
 ![Years](https://badges.strrl.dev/years/IamShaharFar)
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=cqibf6wz6bp4ockhixnojon9g)](https://open.spotify.com/user/cqibf6wz6bp4ockhixnojon9g)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)]([https://www.buymeacoffee.com/YOUR_USERNAME](https://buymeacoffee.com/shaharfar1a))
 
