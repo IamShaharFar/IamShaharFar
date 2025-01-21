@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Shahar Faradyan 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=IamShaharFar&label=Profile%20views&color=0e75b6&style=flat)
 ![Years](https://badges.strrl.dev/years/IamShaharFar)
 
 <picture>
@@ -21,57 +21,30 @@ I'm a **Software Developer** with a passion for building scalable and efficient 
 
 ## 🛠️ My Tech Stack
 
-### Programming Languages
-![C#](https://skillicons.dev/icons?i=cs)
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-![C](https://skillicons.dev/icons?i=c)
-![Java](https://skillicons.dev/icons?i=java)
+![C#](https://skillicons.dev/icons?i=cs) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript)
+![C](https://skillicons.dev/icons?i=c) ![Java](https://skillicons.dev/icons?i=java) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
 
-### Web Development
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![React](https://skillicons.dev/icons?i=react)
-![Angular](https://skillicons.dev/icons?i=angular)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![React](https://skillicons.dev/icons?i=react) ![Angular](https://skillicons.dev/icons?i=angular) ![Azure](https://skillicons.dev/icons?i=azure)
 
-### Cloud & DevOps
-![Azure](https://skillicons.dev/icons?i=azure)
-![AWS](https://skillicons.dev/icons?i=aws)
+![AWS](https://skillicons.dev/icons?i=aws) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![LinkedIn](https://skillicons.dev/icons?i=linkedin)
 
-### Tools & Platforms
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![LinkedIn](https://skillicons.dev/icons?i=linkedin)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![PyCharm](https://skillicons.dev/icons?i=pycharm)
-![PowerShell](https://skillicons.dev/icons?i=powershell)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+![VS Code](https://skillicons.dev/icons?i=vscode) ![PyCharm](https://skillicons.dev/icons?i=pycharm) ![PowerShell](https://skillicons.dev/icons?i=powershell) ![Linux](https://skillicons.dev/icons?i=linux)
+
+![Ubuntu](https://skillicons.dev/icons?i=ubuntu) ![Windows](https://skillicons.dev/icons?i=windows)
+
 
 ### ☕ Support My Work
 If you find my projects helpful or interesting, you can support my work by buying me a coffee!
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shaharfar1a)
 
-## 📫 Connect with Me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shahar-faradyan/)  
-📧 Email: [shaharfar16@gmail.com](mailto:shaharfar16@gmail.com)
-
----
 ### 🤝 Open to Opportunities
 - 💼 Looking for new development opportunities
 - 👥 Open to collaborate on interesting projects
 - 📚 Always eager to learn new technologies
 
+## 📫 Connect with Me
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shahar-faradyan/)  
+
+📧 Email: [shaharfar16@gmail.com](mailto:shaharfar16@gmail.com)
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IamShaharFar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  Thanks for stopping by! Feel free to explore my repositories and reach out for collaboration. 🚀
-</p>
-
-⭐️ From [IamShaharFar](https://github.com/IamShaharFar)
