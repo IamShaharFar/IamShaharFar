@@ -1,7 +1,10 @@
 # Hi there! 👋 I'm Shahar Faradyan 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark)](https://git.io/streak-stats)
+![](https://visitor-badge.glitch.me/badge?page_id=your-github-username.your-github-username)
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-github-username&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🚀 About Me
 I'm a **Software Developer** with a passion for building scalable and efficient applications. Currently, I'm a **1st-year Computer Science student at the Open University of Israel**. I have experience working with a wide range of technologies and enjoy solving complex problems with elegant solutions.
