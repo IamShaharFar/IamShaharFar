@@ -5,11 +5,10 @@
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shaharfar1a)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/dist/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/your-username/your-username/output/dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IamShaharFar/IamShaharFar/output/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IamShaharFar/IamShaharFar/output/dist/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/IamShaharFar/IamShaharFar/output/dist/github-snake.svg" />
 </picture>
-
 
 ## 🚀 About Me
 I'm a **Software Developer** with a passion for building scalable and efficient applications. Currently, I'm a **1st-year Computer Science student at the Open University of Israel**. I have experience working with a wide range of technologies and enjoy solving complex problems with elegant solutions.
