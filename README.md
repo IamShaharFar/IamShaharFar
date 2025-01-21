@@ -30,7 +30,7 @@ I'm a **Software Developer** with a passion for building scalable and efficient 
 
 ![VS Code](https://skillicons.dev/icons?i=vscode) ![PyCharm](https://skillicons.dev/icons?i=pycharm) ![PowerShell](https://skillicons.dev/icons?i=powershell) ![Linux](https://skillicons.dev/icons?i=linux) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) 
 
-<br><br>
+<br>
 
 ### ☕ Support My Work
 If you find my projects helpful or interesting, you can support my work by buying me a coffee!
