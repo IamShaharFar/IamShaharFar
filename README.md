@@ -43,7 +43,7 @@ I'm a **Software Developer** with a passion for building scalable and efficient 
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/shahar-faradyan/))  
+![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/shahar-faradyan/))  
 📧 Email: [shaharfar16@gmail.com](mailto:shaharfar16@gmail.com)
 
 ---
