@@ -7,7 +7,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IamShaharFar/IamShaharFar/output/dist/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IamShaharFar/IamShaharFar/output/dist/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/IamShaharFar/IamShaharFar/output/dist/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/IamShaharFar/IamShaharFar/dist/github-snake.svg" />
 </picture>
 
 ## 🚀 About Me
