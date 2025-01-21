@@ -2,8 +2,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat)
 ![Years](https://badges.strrl.dev/years/IamShaharFar)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shaharfar1a)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IamShaharFar/IamShaharFar/main/dist/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IamShaharFar/IamShaharFar/main/dist/github-snake.svg" />
@@ -52,9 +50,28 @@ I'm a **Software Developer** with a passion for building scalable and efficient 
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
 
+### ☕ Support My Work
+If you find my projects helpful or interesting, you can support my work by buying me a coffee!
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shaharfar1a)
+
 ## 📫 Connect with Me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shahar-faradyan/)  
 📧 Email: [shaharfar16@gmail.com](mailto:shaharfar16@gmail.com)
 
 ---
-Thanks for stopping by! Feel free to explore my repositories and reach out for collaboration. 🚀
+### 🤝 Open to Opportunities
+- 💼 Looking for new development opportunities
+- 👥 Open to collaborate on interesting projects
+- 📚 Always eager to learn new technologies
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IamShaharFar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  Thanks for stopping by! Feel free to explore my repositories and reach out for collaboration. 🚀
+</p>
+
+⭐️ From [IamShaharFar](https://github.com/IamShaharFar)
