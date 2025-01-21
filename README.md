@@ -22,16 +22,15 @@ I'm a **Software Developer** with a passion for building scalable and efficient 
 ## 🛠️ My Tech Stack
 
 ![C#](https://skillicons.dev/icons?i=cs) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript)
-![C](https://skillicons.dev/icons?i=c) ![Java](https://skillicons.dev/icons?i=java) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
+![C](https://skillicons.dev/icons?i=c) ![Java](https://skillicons.dev/icons?i=java)
 
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![React](https://skillicons.dev/icons?i=react) ![Angular](https://skillicons.dev/icons?i=angular) ![Azure](https://skillicons.dev/icons?i=azure)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![React](https://skillicons.dev/icons?i=react) ![Angular](https://skillicons.dev/icons?i=angular) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Azure](https://skillicons.dev/icons?i=azure)
 
-![AWS](https://skillicons.dev/icons?i=aws) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![LinkedIn](https://skillicons.dev/icons?i=linkedin)
+![AWS](https://skillicons.dev/icons?i=aws) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![LinkedIn](https://skillicons.dev/icons?i=linkedin) ![Windows](https://skillicons.dev/icons?i=windows)
 
-![VS Code](https://skillicons.dev/icons?i=vscode) ![PyCharm](https://skillicons.dev/icons?i=pycharm) ![PowerShell](https://skillicons.dev/icons?i=powershell) ![Linux](https://skillicons.dev/icons?i=linux)
+![VS Code](https://skillicons.dev/icons?i=vscode) ![PyCharm](https://skillicons.dev/icons?i=pycharm) ![PowerShell](https://skillicons.dev/icons?i=powershell) ![Linux](https://skillicons.dev/icons?i=linux) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) 
 
-![Ubuntu](https://skillicons.dev/icons?i=ubuntu) ![Windows](https://skillicons.dev/icons?i=windows)
-
+<br><br>
 
 ### ☕ Support My Work
 If you find my projects helpful or interesting, you can support my work by buying me a coffee!
@@ -45,6 +44,4 @@ If you find my projects helpful or interesting, you can support my work by buyin
 
 ## 📫 Connect with Me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shahar-faradyan/)  
-
 📧 Email: [shaharfar16@gmail.com](mailto:shaharfar16@gmail.com)
----
