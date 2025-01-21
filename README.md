@@ -1,4 +1,7 @@
 # Hi there! 👋 I'm Shahar Faradyan 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
 
 ## 🚀 About Me
 I'm a **Software Developer** with a passion for building scalable and efficient applications. Currently, I'm a **1st-year Computer Science student at the Open University of Israel**. I have experience working with a wide range of technologies and enjoy solving complex problems with elegant solutions.
@@ -43,7 +46,7 @@ I'm a **Software Developer** with a passion for building scalable and efficient 
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
 
 ## 📫 Connect with Me
-![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/shahar-faradyan/))  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shahar-faradyan/)  
 📧 Email: [shaharfar16@gmail.com](mailto:shaharfar16@gmail.com)
 
 ---
