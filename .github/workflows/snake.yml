@@ -20,9 +20,12 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
+      - name: Verify generated files
+        run: ls -R dist
+
       - name: Commit and push generated images
         run: |
-          git add output/dist/github-snake.svg output/dist/github-snake-dark.svg output/dist/ocean.gif
+          git add dist/github-snake.svg dist/github-snake-dark.svg dist/ocean.gif
           git commit -m "Add generated snake images"
           git push origin main
         env:
